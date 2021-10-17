@@ -1,0 +1,92 @@
+.search {
+  padding: 9px;
+  font-size: 16px;
+  border-width: 1px;
+  margin-left: 675px;
+  margin-top: 40px;
+  width: 550px;
+  height: 27px;
+  padding: 10px 40px;
+  border-color: #CCCCCC;
+  background-color: #FFFFFF;
+  color: #000000;
+  border-style: solid;
+  border-radius: 25px;
+  box-shadow: 0px 0px 17px rgba(66,66,66,.0);
+}
+.search {
+  outline:none;
+}
+
+.button {
+  background-color: #f5f5f5;
+  border:none;
+  color:#707070;
+  font-size:15px;
+  padding: 10px 20px;
+  margin:5px;
+  border-radius:4px;
+  outline:none;
+}
+.button:hover {
+  border: 1px solid #c8c8c8;
+  padding: 9px 19px;
+  color:#808080;
+}
+.button:focus {
+  border:1px solid #4885ed;
+  padding: 9px 19px;
+}
+
+.loginbox {
+background-color: #4885ed;
+color: #fff;
+border:none;
+border-radius:3px;
+padding:7px 10px;
+position:relative;
+bottom:7px;
+font-weight:bold;
+}
+
+.box {
+width: 99.9%;
+height: 38px;
+position: absolute;
+bottom: 0%;
+left: 0px;
+border: 40px;
+background-color: #f2f2f2;
+border: 1px solid #d3d2d2;
+}
+
+.underline {
+text-decoration: none;
+}
+.underline:hover {
+text-decoration: underline;
+}
+
+.botleft {
+position: absolute;
+bottom: 1%;
+left: 20px;
+}
+.botright {
+  position: absolute;
+  bottom: 1%;
+  left: 90%;
+}
+
+.topleft {
+  position: absolute;
+  top: 2%;
+  right: 94%;
+}
+
+.topright {
+  position: absolute;
+  top: 3%;
+  left: 88%;
+  float: right;
+  }
